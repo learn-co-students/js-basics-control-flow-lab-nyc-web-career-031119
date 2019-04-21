@@ -10,8 +10,7 @@ In this code-along, we will practice working with control flow in JavaScript.
 
 ## Introduction
 You have been hired as a contractor for Scuber, a burgeoning startup that helps
-busy parents transport their children to and from all of their activities on
-scooters.
+busy parents transport their children to and from all 6 m5cco of their activities on scooters.
 
 Scuber's drivers charge their passengers a variable amount based on how far
 they need to travel. Modify the `index.js` file to ensure that Scuber's drivers
@@ -109,7 +108,7 @@ There are three functions you need to declare and fill in:
 * `scuberGreetingForFeet()` — Use `if` and `else if` statements to return the
 correct greeting based on the distance the passenger desires to travel.
 * `ternaryCheckCity()` — Use a ternary operator to return the correct response
-based on the desired destination of the passenger.
+based on the desireddestination of the passenger.
 * `switchOnCharmFromTip()` — Use a `switch` statement to return a different
 response based on the generosity of the passenger's tip.
 
@@ -147,4 +146,3 @@ through the assignment,.
 Good luck!
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/js-basics-flow-control'>Control Flow Lab</a> on Learn.co and start learning to code for free.</p>
-
